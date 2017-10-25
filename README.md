@@ -3,9 +3,8 @@
 Public repository to store presentations and notebooks from the weekly Scenarios seances.
 
 ## schedule (date: speaker : title : repo-dir)
-* 2017-11-14: Jozsef Kophazi: Reinforcement learning in robotics
-* 2017-11-07: Levente Torok: Probabilistic programming: pymc3 + edwardslib
-* 2017-10-31: Szabolcs Velkei: Optimal training of image autoencoders
+* 2017-11-14: Levente Torok: Probabilistic programming: pymc3 + edwardslib
+* 2017-11-07: Szabolcs Velkei: Optimal training of image autoencoders
 * 2017-10-24: Attila Agod: Lessons of using app from dl.sony.com
 * 2017-10-17: Attila Agod: Domain specific search engine using neural networks: text-embeddings
 * 2017-10-03: Zoltan Nagy: FPGA tales at Pazmany University: fpga
