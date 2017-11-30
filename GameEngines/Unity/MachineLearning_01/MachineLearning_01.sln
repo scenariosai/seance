@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning_01", "Assembly-CSharp.csproj", "{84EE0D26-1E43-3F44-95B2-89167D39E4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning_01", "Assembly-CSharp-Editor.csproj", "{5CDDD62B-E876-94E6-8ED8-BCF5DF554AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EE0D26-1E43-3F44-95B2-89167D39E4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EE0D26-1E43-3F44-95B2-89167D39E4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EE0D26-1E43-3F44-95B2-89167D39E4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EE0D26-1E43-3F44-95B2-89167D39E4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDDD62B-E876-94E6-8ED8-BCF5DF554AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDDD62B-E876-94E6-8ED8-BCF5DF554AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDDD62B-E876-94E6-8ED8-BCF5DF554AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDDD62B-E876-94E6-8ED8-BCF5DF554AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
