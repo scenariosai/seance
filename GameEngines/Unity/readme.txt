@@ -18,6 +18,7 @@ Unity3D Machine Learning - Building and Training the First Example: https://www.
 
 
 
+
 To use the tom and jerry demo:
 First: copy Ml-Agents folder into the assets folder (I did not include this, because its 800Mb).
 In this Ml-Agents folder you only need the following directories: Editor, Plugins, Scripts.
