@@ -3,8 +3,11 @@
 Public repository to store presentations and notebooks from the weekly Scenarios seances.
 
 ## schedule (date: speaker : title : repo-dir)
+* 2018-01-16: Levente Torok: 
+* 2018-01-09: Andras Horvath: One-shot learning
+* 2017-12-12: Marton Gorog: Reinforcement learning in autonomous driving
 * 2017-12-05: Andras Olasz: Reinforcement learning for Molecule design
-* 2017-11-28: Csaba Goldschmidt: Neural Networks in Game engines
+* 2017-11-28: Csaba Goldschmidt: Neural Networks in Game engines: GameEngines
 * 2017-11-14: Levente Torok: Probabilistic programming, pymc3 + edwardslib:
 * 2017-11-07: Szabolcs Velkei: Optimal training of image autoencoders: autoencoder
 * 2017-10-24: Attila Agod: Lessons of using app from dl.sony.com
