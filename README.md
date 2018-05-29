@@ -3,6 +3,10 @@
 Public repository to store presentations and notebooks from the weekly Scenarios seances.
 
 ## schedule (date: speaker : title : repo-dir)
+* 2018-06-05: Szabolcs Velkei: Transfer learning
+* 2018-05-22: Peter Hussami: Audio data science
+* 2018-05-08: Attila Agod: Autoencoder + Classifier
+* 2018-04-19: Attila Agod: Brainfactory summary
 * 2018-01-16: Levente Torok: 
 * 2018-01-09: Andras Horvath: One-shot learning
 * 2017-12-12: Marton Gorog: Reinforcement learning in autonomous driving
