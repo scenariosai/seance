@@ -7,7 +7,7 @@ Public repository to store presentations and notebooks from the weekly Scenarios
 * 2018-05-22: Peter Hussami: Audio data science
 * 2018-05-08: Attila Agod: Autoencoder + Classifier
 * 2018-04-19: Attila Agod: Brainfactory summary
-* 2018-01-16: Levente Torok: 
+* 2018-01-16: Levente Torok: Intro to Restricted Boltzmann Machine
 * 2018-01-09: Andras Horvath: One-shot learning
 * 2017-12-12: Marton Gorog: Reinforcement learning in autonomous driving
 * 2017-12-05: Andras Olasz: Reinforcement learning for Molecule design
